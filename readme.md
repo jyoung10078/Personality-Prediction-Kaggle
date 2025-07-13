@@ -35,12 +35,6 @@ This repo includes the code, experiments, and results from my exploration of thi
 
 ---
 
-## 🧪 Directory Structure
-📁 kaggle-personality-predictor/ ├── 📄 train_model.py # Main training script ├── 📄 preprocess.py # Data cleaning & feature encoding ├── 📄 neural_net.py # PyTorch neural classifier ├── 📄 submission.csv # Final formatted output ├── 📁 notebooks/ # Jupyter experiments & visualizations ├── 📁 data/ # Raw train/test datasets └── 📄 README.md # You're reading it!
-
-
----
-
 ## 💡 What I Learned
 
 - How subtle behavioral features can drive classification
